@@ -42,5 +42,10 @@
 	向服务器发送异步请求,服务器返回单个对象的JSON字符串
 	<br>
 	<input type="button" value="向服务器发送异步请求,服务器返回单个对象的JSON字符串" id="btn">
+	
+	
+	<br>
+	这是修改后的内容!
+	
 </body>
 </html>
